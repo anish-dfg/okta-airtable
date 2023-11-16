@@ -1,3 +1,5 @@
+![pytest](https://github.com/anish-sinha1/core-dichromatic/actions/workflows/tests.yaml/badge.svg)
+
 # okta-airtable
 
 Instructions on working with this repository:
