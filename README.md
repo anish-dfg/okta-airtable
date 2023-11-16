@@ -1,6 +1,6 @@
 # okta-airtable
 
-Instructions on working with this :
+Instructions on working with this repository:
 
 - Fork this repository.
 - Clone your fork onto your local machine.
